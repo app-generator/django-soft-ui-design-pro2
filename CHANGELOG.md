@@ -1,5 +1,22 @@
 # Change Log
 
+## [1.0.4] 2022-09-08
+### Improvements
+
+- Improved Authentication
+  - Visual password strength indicator (registration)  
+  - **Social Login**: `Github` & `Twitter`
+- New Feature: `User Profiles`
+  - `Extended User` profile
+  - `Self-Deletion` option
+- Improved `Docker` Scripts   
+
+## [1.0.3] 2022-09-05
+### Improvements
+
+- Added Profile Page
+- Update SignIN with Social Buttons
+
 ## [1.0.2] 2022-08-10
 ### Improvements (Minor)
 
